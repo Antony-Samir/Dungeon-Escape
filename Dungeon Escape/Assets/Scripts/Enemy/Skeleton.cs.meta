@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c39a1d9d4e28fb444bd3ee2f548ca047
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - diamondPrefab: {fileID: 7600167901344315277, guid: 4b24bd412eceea64d9c6a25d27b310e8,
+      type: 3}
+  - idleClip: {instanceID: 0}
+  - pointA: {instanceID: 0}
+  - pointB: {instanceID: 0}
+  - deathClip: {instanceID: 0}
+  - hitClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
